@@ -38,7 +38,7 @@ body {
 
 .container {
   max-width: 2000px;
-  margin: 0 auto;
+  margin:  auto;
   padding: 2rem;
   align-items: center;
 }
@@ -50,9 +50,10 @@ main.container {
   place-items: center;
   height: 200px;
   min-width: none;
+  width: auto;
 }
 
-.btn {
+.btn1 {
   background-color: #764ba2;
   color: white;
   padding: 10px 20px;
@@ -62,12 +63,31 @@ main.container {
   align-self: center;
 }
 
-.btn:hover {
+.btn2 {
+  background-color: #764ba2;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  align-self: center;
+}
+
+.btn1:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
 }
 
-.btn:active {
+.btn2:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+}
+
+.btn1:active {
+  transform: translateY(0);
+}
+
+.btn2:active {
   transform: translateY(0);
 }
 
