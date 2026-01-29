@@ -1,4 +1,6 @@
-Deutsch
+# Lizenz/License
+
+## Deutsch
 
 MIT-Lizenz
 
@@ -10,9 +12,10 @@ Diese Lizenz erlaubt es den Nutzern, die Software für persönliche Zwecke frei 
 
 Die Software wird „wie besehen“ („as is“) bereitgestellt, ohne jegliche ausdrückliche oder stillschweigende Gewährleistung, einschließlich, aber nicht beschränkt auf die Gewährleistung der Marktgängigkeit, der Eignung für einen bestimmten Zweck und der Nichtverletzung von Rechten Dritter. Der Urheber übernimmt keine Haftung für Schäden oder sonstige Ansprüche, die aus der Nutzung der Software entstehen.
 
+<br>
+<br>
 
-
-Englisch
+## Englisch
 
 MIT License
 
