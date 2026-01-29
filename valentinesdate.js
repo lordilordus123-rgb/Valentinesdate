@@ -27,6 +27,6 @@ btn2.addEventListener('click', () => {
 btn1.addEventListener('click', () => {
   btn1.style.display = 'none';
   btn2.style.display = 'none';
-  lbl1.textContent = 'weeeeeeee';
-  lbl2.style.display = 'block';
+  lbl1.textContent = 'juhuuuuuuuuuu ' + 'ich liebe dich ' + 'jezt gibts kein zurück mehr' + '❤️‍🔥🥰';
+  lbl2.textContent = 'yayyyyyyyyyyy ' + 'i love you ' + 'but no take backsies ' + '❤️‍🔥🥰';
 });
